@@ -15,6 +15,9 @@ As a user so that I know what is being served for lunch, I want to see the schoo
 As a user so that I know if I am at my mom's or dad's house, I want to see our family schedule.
 ```
 
+![alt text](https://github.com/NoelleDL/JSMommysBigHelpers/blob/master/Mockup.png "Initial Mock-up")
+
+
 ## Getting started
 
 ### Prerequisites
