@@ -9,4 +9,5 @@ function Chores() {
   const chore = [chores[Math.floor(Math.random() * chores.length)]];
 
   alert(`${chore}`);
+  return chore;
 }
