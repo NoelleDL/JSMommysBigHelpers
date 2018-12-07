@@ -8,5 +8,5 @@ function Chores() {
 
   const chore = [chores[Math.floor(Math.random() * chores.length)]];
 
-  return chore;
+  alert(`${chore}`);
 }
