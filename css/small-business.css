@@ -9,7 +9,15 @@ body {
 }
 
 .jumbotron {
-    background-color:#FFB48F !important;
+    background-color: #F5E6CC !important;
+}
+
+.drk-turquoise {
+  background-color: #00a4a7 !important;
+  }
+
+.btn-soft-blue {
+  background-color: #6cceb4 !important;
 }
 
 @media (min-width: 992px) {
