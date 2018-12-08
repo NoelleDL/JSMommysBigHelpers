@@ -9,11 +9,14 @@ body {
 }
 
 .jumbotron {
-    background-color: #F5E6CC !important;
+    background-color: #fbf5ea !important;
+}
+.call-to-action {
+  background-color: #8197b4 !important;
 }
 
-.drk-turquoise {
-  background-color: #00a4a7 !important;
+.blue {
+  background-color: #89D1F1!important;
   }
 
 .btn-soft-blue {

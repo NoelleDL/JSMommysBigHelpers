@@ -8,6 +8,10 @@ function Chores() {
 
   const chore = [chores[Math.floor(Math.random() * chores.length)]];
 
-  alert(`${chore}`);
+  $('#exampleModalCenter').on('show.bs.modal', function (event) {
+    var modal = $(this);
+    modal.find('.modal-title').text("Today, you get to:");
+    modal.find('.modal-body').text(`${chore}`);
+  });
   return chore;
 }
