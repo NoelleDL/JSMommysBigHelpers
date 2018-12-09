@@ -1,7 +1,22 @@
 var chores = [
-    "Dust the family room",
+    "Dust items family room",
     "Sweep the kithchen floor",
-    "Clean bathroom",
+    "Clean sink in bathroom - upstairs",
+    "Clean sink in bathroom - downstairs",
+    "Clean toilet - upstairs",
+    "Clean toilet - downstairs",
+    "Put away items on top of dresser",
+    "Tidy bookshelves in room",
+    "Put away items under bed",
+    "Wipe down cupboards in kitchen",
+    "Sort through and arrange items in bed",
+    "Clean mirror in bathroom upstairs",
+    "Dust base boards",
+    "Organize books downstairs",
+    "Organize puzzles downstairs",
+    "Look under downstairs furniture for toys - put away toys;",
+    "Wipe off top of drawers - kitchen",
+    "Wipe down doors"
   ];
 
 var completedChores = [];
