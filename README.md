@@ -17,6 +17,10 @@ As a user so that I know if I am at my mom's or dad's house, I want to see our f
 
 ![alt text](https://github.com/NoelleDL/JSMommysBigHelpers/blob/master/stages/2018-12-09.png "version 1")
 
+![alt text](https://github.com/NoelleDL/JSMommysBigHelpers/blob/master/stages/modal-view-2018-12-09.png "version 1")
+
+
+
 
 ## Getting started
 
