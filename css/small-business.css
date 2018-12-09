@@ -18,9 +18,21 @@ body {
 .blue {
   background-color: #89D1F1!important;
   }
-
+6cceb4
 .btn-soft-blue {
-  background-color: #6cceb4 !important;
+  background-color: #63A0B5 !important;
+}
+
+.soft-green {
+  background-color: #71BE63 !important;
+}
+
+.salmon {
+  background-color: #f26e64 !important;
+}
+
+.bright-blue {
+  background-color: #9AF4EF !important
 }
 
 @media (min-width: 992px) {
