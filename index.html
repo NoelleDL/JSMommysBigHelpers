@@ -34,6 +34,9 @@
         </button>
       </div>
       <div class="modal-body">
+        <div id="id"></div>
+        <div id="url"></div>
+        <div id="image"></div>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
@@ -51,7 +54,7 @@
         <p class="lead">Bet you're wondering how you can help around the house. <br>Click the button below to find out how you can contribute.</p>
 
         <p class="lead">
-          <a class="btn btn-info btn-lg" href="#" data-toggle="modal" data-target="#exampleModalCenter" role="button" onclick="getChores(chores, completedChores)">Click me, baby!</a>
+          <a class="btn btn-info btn-lg" href="#" data-toggle="modal" data-target="#exampleModalCenter" role="button" onclick="getChores(chores, completedChores); ajax_get(url, callback)">Click me, baby!</a>
         </p>
             </div>
             <div class="col-4">
@@ -81,10 +84,12 @@
     </footer>
 
     <!-- Bootstrap core JavaScript -->
+    <script src="node_modules/moment/moment.js"></script>
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
     <script src="src/index.js"></script>
     <script src="src/chores.js"></script>
+
 
   </body>
 

@@ -1,2 +1,2 @@
 
-document.getElementById('date').innerHTML = `Today is: ${new Date().toDateString()}`;
+document.getElementById('date').innerHTML = `Today is: ${moment().format('dddd, MMMM Do, YYYY')}`;
