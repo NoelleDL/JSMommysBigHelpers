@@ -2,6 +2,10 @@
 
 A website that generates chores for my children.
 
+## To Do...
+
+Cleaning up my JavaScript! Will remove the jQuery as my goal is to do this using vanilla JavaScript and nothing else. 
+
 ```
 As a user so that I know how to help my mom, I need to see what chores to do today.
 ```
